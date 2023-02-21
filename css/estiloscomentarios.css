@@ -1,0 +1,52 @@
+/*CSS COMENTARIOS */
+
+#load_testm_div {
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    font-size: 12px;
+    line-height: normal;
+    font-family: Arial;
+    padding: 0;
+}
+
+.message_box {
+    padding: 10px 10px 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid #ccc;
+}
+
+.commentReply {
+    margin: 0 0 0 60px;
+    padding: 0 10px 10px;
+}
+
+.commentReply .commentItem {
+    margin-left: 42px!important;
+}
+
+.commentLinks, .commentName {
+    color: #3b5998;
+    cursor: pointer;
+}
+
+.commentItem div, .commentReply .commentItem div {
+    font-size: 14px;
+}
+
+.commentReply img {
+    width: 32px!important;
+    height: 32px;
+    cursor: pointer;
+}
+
+.commentItem {
+    margin-left: 60px;
+}
+
+.commentReply .foto-comentario {
+    width: 200px !important;
+    height: auto;
+}
