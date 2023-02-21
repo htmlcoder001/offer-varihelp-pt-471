@@ -6,6 +6,7 @@
     margin: 0 auto;
     max-width: 190px;
     position: relative;
+    text-align: center;
 }
 .form_image_wrap_image img {width: 50%}
 
