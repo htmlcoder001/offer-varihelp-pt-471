@@ -81,7 +81,7 @@ var comentarios = [{
   imagem: "./comentarios/Nicole-Morais.png",
   nome: "Rebeca dos Santos",
   mensagem: "Minha mãe depois de ver os resultados comprou também.",
-  tempo: "9h h"
+  tempo: "9 h"
 }, {
   tipo: "comentario",
   imagem: "./comentarios/FernandaLemos.png",
@@ -100,18 +100,6 @@ var comentarios = [{
   nome: "Fernanda Lemos",
   mensagem: '<span class="commentLinks">Amanda Almeida</span> eu tenho sim mais agora já estão a sair! To muito feliz haha',
   tempo: "43 min"
-}, {
-  tipo: "comentario",
-  imagem: "./comentarios/Alessandro-Santos.png",
-  nome: "Alessandro Flávio",
-  mensagem: "tem garantia para esse Varihelp? minha esposa está a perguntar",
-  tempo: "25 min"
-}, {
-  tipo: "resposta",
-  imagem: "./comentarios/Taiane-Gomes.png",
-  nome: "Tatiane Gomes",
-  mensagem: "tá no final da notícia. é 100% de volta",
-  tempo: "5 min"
 }, {
   tipo: "comentario",
   imagem: "./comentarios/AlessandraTorres.png",
