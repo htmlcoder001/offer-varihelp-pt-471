@@ -17,6 +17,9 @@
     margin-bottom: 10px;
     border-top: 1px solid #ccc;
 }
+.message_box > img {
+    object-fit: cover;
+}
 
 .commentReply {
     margin: 0 0 0 60px;

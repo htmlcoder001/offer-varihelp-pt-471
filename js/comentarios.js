@@ -1,126 +1,126 @@
 var comentarios = [{
   tipo: "comentario",
-  imagem: "./comentarios/Gabrielle.png",
+  imagem: "./images/pics/Carla Martins.png",
   nome: "Carla Martins",
   mensagem: "Será que é isso tudo verdade? Estou com medo de comprar coisas online e não chegar e nem funcionar",
   tempo: "13 h"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/Yara-Santos.png",
+  imagem: "./images/pics/Iara Torres.png",
   nome: "Iara Torres",
   mensagem: 'Olá Carla Martins, eu comprei com o formulário oficial e estou a adorar. Realmente funciona e a entrega ocorreu no prazo sem nenhum problema.',
   tempo: "7 h"
 }, {
   tipo: "comentario",
-  imagem: "./comentarios/Receba-silva.png",
+  imagem: "./images/pics/Rebeca Pereira.jpg",
   nome: "Rebeca Pereira",
   mensagem: "Comprei o segundo kit hoje, estou ansiosa para usar logo.",
   tempo: "57 min"
 }, {
   tipo: "comentario",
-  imagem: "./comentarios/Ana-Lucia.png",
+  imagem: "./images/pics/Leticia Estevez.png",
   nome: "Leticia Estevez",
   mensagem: "Tenho a pele muito fina e queria melhorar a aparência, este produto vai servir para mim?",
   tempo: "5 h"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/Fabiana-Amaral.png",
+  imagem: "./images/pics/Fabi Monteiro.png",
   nome: "Fabi Monteiro",
   mensagem: "Estou a usar há algum tempo e há dado efeito",
   tempo: "4 h"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/Ana-Lucia.png",
+  imagem: "./images/pics/Leticia Estevez.png",
   nome: "Leticia Estevez",
   mensagem: "Mas está a usar por quanto tempo?",
   tempo: "4 h"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/Fabiana-Amaral.png",
+  imagem: "./images/pics/Fabi Monteiro.png",
   nome: "Fabi Monteiro",
   mensagem: "Entrei no meu segundo mês a diferença muito agradável.",
   tempo: "3 h"
 }, {
   tipo: "comentario",
-  imagem: "./comentarios/IvanildaBarbosa.png",
+  imagem: "./images/pics/Eduarda Costa.png",
   nome: "Eduarda Costa",
-  mensagem: 'Eu moro no interior e eu tinha pele muito fina eu sofria com as pessoas me olhar e eu sabia que elas estavam a olhar para as varizes agora com esse creme as varizes estão a passar sei que não é de uma hora para a outra mais fico feliz quando vejo que estão a passar eu queria agradecer foi uma bênção na minha vida<br><img class="foto-comentario" src="./comentarios/varizero_2.png" width="200" />',
+  mensagem: 'Eu moro no interior e eu tinha pele muito fina eu sofria com as pessoas me olhar e eu sabia que elas estavam a olhar para as varizes agora com esse creme as varizes estão a passar sei que não é de uma hora para a outra mais fico feliz quando vejo que estão a passar eu queria agradecer foi uma bênção na minha vida',
   tempo: "30 min"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/TerezaMaria.png",
+  imagem: "./images/pics/Tereza Maria.jpg",
   nome: "Tereza Maria",
   mensagem: "Tu usas só o Varihelp?",
   tempo: "23 min"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/IvanildaBarbosa.png",
+  imagem: "./images/pics/Ivanilda Barbosa.png",
   nome: "Ivanilda Barbosa",
   mensagem: "sim",
   tempo: "20 min"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/PedroAmorimGomes.png",
+  imagem: "./images/pics/Carla Amorim Gomes.png",
   nome: "Carla Amorim Gomes",
   mensagem: "Quanto tempo ?",
   tempo: "20 min"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/KatiaVieira.png",
+  imagem: "./images/pics/Catia Vieira.png",
   nome: "Cátia Vieira",
   mensagem: '<span class="commentLinks">Cátia Vieira</span> quanto tempo?',
   tempo: "17 min"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/IvanildaBarbosa.png",
+  imagem: "./images/pics/Ivanilda Barbosa.png",
   nome: "Ivanilda Barbosa",
   mensagem: "Estou no segundo pote",
   tempo: "Agora mesmo"
 }, {
   tipo: "comentario",
-  imagem: "./comentarios/Nicole-Morais.png",
+  imagem: "./images/pics/Rebeca dos Santos.png",
   nome: "Rebeca dos Santos",
   mensagem: "Minha mãe depois de ver os resultados comprou também.",
   tempo: "9 h"
 }, {
   tipo: "comentario",
-  imagem: "./comentarios/FernandaLemos.png",
+  imagem: "./images/pics/Fernanda Lemos.png",
   nome: "Fernanda Lemos",
   mensagem: "Estou a usar o Varihelp há 2 semanas e observei que minhas veias estão bem menos visíveis, mais clarinhas e a pele mais lisinha. Fiz uma chamada de vídeo com minhas amigas e elas repararam também.",
   tempo: "1 h"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/AmandaAlmeida.png",
+  imagem: "./images/pics/Amanda Almeida.jpg",
   nome: "Amanda Almeida",
   mensagem: '<span class="commentLinks">Fernanda Lemos</span> tu tens varizes?',
   tempo: "1 h"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/FernandaLemos.png",
+  imagem: "./images/pics/Fernanda Lemos.png",
   nome: "Fernanda Lemos",
   mensagem: '<span class="commentLinks">Amanda Almeida</span> eu tenho sim mais agora já estão a sair! To muito feliz haha',
   tempo: "43 min"
 }, {
   tipo: "comentario",
-  imagem: "./comentarios/AlessandraTorres.png",
+  imagem: "./images/pics/Helena Batistela.png",
   nome: "Helena Batistela",
   mensagem: "Quem dá mamá pode usar?",
   tempo: "12 min"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/ClaraVAz.png",
+  imagem: "./images/pics/Clara Vaz.png",
   nome: "Clara Vaz",
   mensagem: "Também queria sabe",
   tempo: "5 min"
 }, {
   tipo: "resposta",
-  imagem: "./comentarios/2.png",
+  imagem: "./images/pics/Laila Afonso.png",
   nome: "Laila Afonso",
   mensagem: "Pode, tá no site mas é bom confirmar com o médico sempre",
   tempo: "1 min"
 }, {
   tipo: "comentario",
-  imagem: "./comentarios/1.png",
+  imagem: "./images/pics/Claudete Faria.png",
   nome: "Claudete Faria",
   mensagem: "Eu ouvi falar desse creme a anos atrás mas não vendia-se aqui em Portugal na época que bom que chegou minha amiga que me disse pra comprar.",
   tempo: "agora mesmo"
