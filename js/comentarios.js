@@ -68,7 +68,7 @@ var comentarios = [{
   tipo: "resposta",
   imagem: "./images/pics/Catia Vieira.png",
   nome: "Cátia Vieira",
-  mensagem: '<span class="commentLinks">Cátia Vieira</span> quanto tempo?',
+  mensagem: 'Quanto tempo?',
   tempo: "17 min"
 }, {
   tipo: "resposta",
